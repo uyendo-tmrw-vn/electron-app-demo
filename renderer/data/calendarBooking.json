@@ -1,0 +1,159 @@
+{
+   "dates": [
+      {
+         "day": "01",
+         "full_day": "2022-03-01",
+         "can_book": true
+      },
+      {
+         "day": "02",
+         "full_day": "2022-03-02",
+         "can_book": true
+      },
+      {
+         "day": "03",
+         "full_day": "2022-03-03",
+         "can_book": true
+      },
+      {
+         "day": "04",
+         "full_day": "2022-03-04",
+         "can_book": true
+      },
+      {
+         "day": "05",
+         "full_day": "2022-03-05",
+         "can_book": true
+      },
+      {
+         "day": "06",
+         "full_day": "2022-03-06",
+         "can_book": true
+      },
+      {
+         "day": "07",
+         "full_day": "2022-03-07",
+         "can_book": true
+      },
+      {
+         "day": "08",
+         "full_day": "2022-03-08",
+         "can_book": true
+      },
+      {
+         "day": "09",
+         "full_day": "2022-03-09",
+         "can_book": true
+      },
+      {
+         "day": "10",
+         "full_day": "2022-03-10",
+         "can_book": true
+      },
+      {
+         "day": "11",
+         "full_day": "2022-03-11",
+         "can_book": true
+      },
+      {
+         "day": "12",
+         "full_day": "2022-03-12",
+         "can_book": true
+      },
+      {
+         "day": "13",
+         "full_day": "2022-03-13",
+         "can_book": true
+      },
+      {
+         "day": "14",
+         "full_day": "2022-03-14",
+         "can_book": true
+      },
+      {
+         "day": "15",
+         "full_day": "2022-03-15",
+         "can_book": true
+      },
+      {
+         "day": "16",
+         "full_day": "2022-03-16",
+         "can_book": true
+      },
+      {
+         "day": "17",
+         "full_day": "2022-03-17",
+         "can_book": true
+      },
+      {
+         "day": "18",
+         "full_day": "2022-03-18",
+         "can_book": true
+      },
+      {
+         "day": "19",
+         "full_day": "2022-03-19",
+         "can_book": true
+      },
+      {
+         "day": "20",
+         "full_day": "2022-03-20",
+         "can_book": true
+      },
+      {
+         "day": "21",
+         "full_day": "2022-03-21",
+         "can_book": true
+      },
+      {
+         "day": "22",
+         "full_day": "2022-03-22",
+         "can_book": true
+      },
+      {
+         "day": "23",
+         "full_day": "2022-03-23",
+         "can_book": true
+      },
+      {
+         "day": "24",
+         "full_day": "2022-03-24",
+         "can_book": true
+      },
+      {
+         "day": "25",
+         "full_day": "2022-03-25",
+         "can_book": true
+      },
+      {
+         "day": "26",
+         "full_day": "2022-03-26",
+         "can_book": true
+      },
+      {
+         "day": "27",
+         "full_day": "2022-03-27",
+         "can_book": true
+      },
+      {
+         "day": "28",
+         "full_day": "2022-03-28",
+         "can_book": true
+      },
+      {
+         "day": "29",
+         "full_day": "2022-03-29",
+         "can_book": true
+      },
+      {
+         "day": "30",
+         "full_day": "2022-03-30",
+         "can_book": true
+      },
+      {
+         "day": "31",
+         "full_day": "2022-03-31",
+         "can_book": true
+      }
+   ]
+}

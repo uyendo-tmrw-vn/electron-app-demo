@@ -1,0 +1,667 @@
+{
+    "noFee": {
+        "Stands": {
+            "title": "Stands",
+            "list": [
+                {
+                    "name": "Manfrotto A2033L/Kit C-Stand Kit 33 Sliding Leg (With grip head and arm)",
+                    "quality": "4"
+                },
+                {
+                    "name": "33\" C-Stand (Off brand) (With grip head and arm)",
+                    "quality": "6"
+                },
+                {
+                    "name": "Jinbei Large lighting stand",
+                    "quality": "6"
+                },
+                {
+                    "name": "Manfrotto 1004BAC Master Lighting Stand ",
+                    "quality": "4"
+                },
+                {
+                    "name": "Manfrotto 1051BAC Mini Compact Lighting Stand ",
+                    "quality": "2"
+                },
+                {
+                    "name": "3m backdrop stand (With 2 coloured backdrop options)",
+                    "quality": "1"
+                }
+            ]
+        },
+        "Lights": {
+            "title": "Lights",
+            "list": [
+                {
+                    "name": "Aputure Amaran 100D (Aputure Package)",
+                    "quality": "2"
+                },
+                {
+                    "name": "Aputure Amaran 200D (Aputure Package)",
+                    "quality": "2"
+                },
+                {
+                    "name": "Elinchrom D-Lite RX 4 (With universal transmitter)",
+                    "quality": "2"
+                },
+                {
+                    "name": "Elinchrom ELC 500 Studio Monolight (With universal transmitter)",
+                    "quality": "2"
+                },
+                {
+                    "name": "Elinchrom Mount to Bowens Mounts Flash Adapter ",
+                    "quality": "5"
+                }
+            ]
+        },
+        "Cutters_Flags": {
+            "title": "Cutters & Flags",
+            "list": [
+                {
+                    "name": "Westcott 307 30\" 5 in 1 Reflector",
+                    "quality": "1"
+                },
+                {
+                    "name": "Westcott Fast Flag Kit 18\" x 24\"",
+                    "quality": "1"
+                },
+                {
+                    "name": "Westcott Fast Flags Kit 24\" x 36\"",
+                    "quality": "1"
+                },
+                {
+                    "name": "4' x 4' Black cutter flag ",
+                    "quality": "2"
+                },
+                {
+                    "name": "2' x 3' diffuser flag",
+                    "quality": "2"
+                }
+            ]
+        },
+        "Softboxes": {
+            "title": "Softboxes",
+            "list": [
+                {
+                    "name": "Godox Latern CS-65D",
+                    "quality": "1"
+                },
+                {
+                    "name": "Godox Light Diffuser Rectangle 70x100",
+                    "quality": "1"
+                },
+                {
+                    "name": "Godox HoneyComb Light Diffuser Rectangle 70x100 ",
+                    "quality": "1"
+                },
+                {
+                    "name": "Godox HoneyComb Light Diffuser Rectangle 80x120",
+                    "quality": "1"
+                },
+                {
+                    "name": "Godox HoneyComb Light Diffuser Rectangle 60x90",
+                    "quality": "1"
+                },
+                {
+                    "name": "Elinchrom Portalite Octa (With bowens mount adapter)",
+                    "quality": "2"
+                },
+                {
+                    "name": "Elinchrom Portalite Square (With bowens mount adapter)",
+                    "quality": "2"
+                }
+            ]
+        },
+        "Miscellaneous": {
+            "title": "Miscellaneous",
+            "list": [
+                {
+                    "name": "Steamer",
+                    "quality": "1"
+                },
+                {
+                    "name": "Camera cart",
+                    "quality": "1"
+                },
+                {
+                    "name": "Apple box",
+                    "quality": "1"
+                },
+                {
+                    "name": "Clamps",
+                    "quality": "10"
+                },
+                {
+                    "name": "Super clamps",
+                    "quality": "4"
+                },
+                {
+                    "name": "Cassette Reels 4 sockes, 15M",
+                    "quality": "1"
+                },
+                {
+                    "name": "Cassette Reels 4 sockes, 5M",
+                    "quality": "2"
+                },
+                {
+                    "name": "Sandbags",
+                    "quality": "10"
+                }
+            ]
+        }
+    },
+    "hasFee": {
+        "lights": {
+            "title": "Lights",
+            "list": [
+                {
+                    "name": "Godox SL 100BI BI-Color Led Light",
+                    "quality": "2",
+                    "price": "$25.00/Day"
+                },
+                {
+                    "name": "Godox LEDP260C 30W 3300-5600K LED Video Light Panel",
+                    "quality": "2",
+                    "price": "$20.00/Day"
+                },
+                {
+                    "name": "Aputure Light Storm C300D II",
+                    "quality": "2",
+                    "price": "$70.00/Day"
+                },
+                {
+                    "name": "Aputure Light Storm 300X",
+                    "quality": "2",
+                    "price": "$70.00/Day"
+                },
+                {
+                    "name": "Aputure Nova P300C Kit",
+                    "quality": "2",
+                    "price": "$85.00/Day"
+                },
+                {
+                    "name": "Aputure Light Storm 600D Pro",
+                    "quality": "2",
+                    "price": "$85.00/Day"
+                }
+            ]
+        },
+        "cutters_flags": {
+            "title": "Cutters & Flags",
+            "list": [
+                {
+                    "name": "Westcott 307 30\" 5 in 1 Reflector",
+                    "quality": "1",
+                    "price": "$10/Day"
+                },
+                {
+                    "name": "Westcott Fast Flag Kit 18\" x 24\"",
+                    "quality": "1",
+                    "price": "$20/Day"
+                },
+                {
+                    "name": "Westcott Fast Flags Kit 24\" x 36\"",
+                    "quality": "1",
+                    "price": "$30/Day"
+                },
+                {
+                    "name": "4' x 4' Black cutter flag",
+                    "quality": "2",
+                    "price": "$10/Day"
+                }
+            ]
+        },
+        "softboxes": {
+            "title": "Softboxes",
+            "list": [
+                {
+                    "name": "Aputure Light Dome II",
+                    "quality": "4",
+                    "price": "$20.00/Day"
+                },
+                {
+                    "name": "Aputure Lantern",
+                    "quality": "1",
+                    "price": "$14.00/Day"
+                },
+                {
+                    "name": "Aputure Light Dome SE",
+                    "quality": "2",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Godox HoneyComb Light Diffuser Rectangle 35x160",
+                    "quality": "1",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Godox HoneyComb Light Diffuser Rectangle 50x130",
+                    "quality": "1",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Godox HoneyComb Light Diffuser Octagon 120",
+                    "quality": "2",
+                    "price": "$10.00/Day"
+                }
+            ]
+        },
+        "stands": {
+            "title": "Stands",
+            "list": [
+                {
+                    "name": "Manfrotto Avenger 083NW steel 2-Section Wind Up Stand",
+                    "quality": "2",
+                    "price": "$30.00/Day"
+                },
+                {
+                    "name": "Manfrotto A2033L/Kit C-Stand Kit 33 Sliding Leg",
+                    "quality": "6",
+                    "price": "$25.00/Day"
+                },
+                {
+                    "name": "Manfrotto Avenger A1010CS Combo Stand 10 Steel",
+                    "quality": "3",
+                    "price": "$20.00/Day"
+                },
+                {
+                    "name": "Manfrotto 1004BAC Master Lighting Stand",
+                    "quality": "9",
+                    "price": "$12.00/Day"
+                }
+            ]
+        },
+        "sound": {
+            "title": "Sound",
+            "list": [
+                {
+                    "name": "Sennheiser EW122P G4-B-SET",
+                    "quality": "4",
+                    "price": "$25.00/Day"
+                },
+                {
+                    "name": "Sennheiser MKE 600 Shotgun Microphone",
+                    "quality": "1",
+                    "price": "$20.00/Day"
+                },
+                {
+                    "name": "Rycote INV-7 InVision Microphone Suspension for Stand and Boompole",
+                    "quality": "1",
+                    "price": "$20.00/Day"
+                },
+                {
+                    "name": "Rode boompole Pro ",
+                    "quality": "1",
+                    "price": "$15.00/Day"
+                },
+                {
+                    "name": "Rode Blimp Wind Shield and Shock Mount System",
+                    "quality": "1",
+                    "price": "$20.00/Day"
+                },
+                {
+                    "name": "Zoom F6 6-Input / 14-Track Multitrack Field Recorder",
+                    "quality": "1",
+                    "price": "$30.00/Day"
+                }
+            ]
+        },
+        "backdrops": {
+            "title": "Backdrops",
+            "list": [
+                {
+                    "name": "Wrinkle Resistant Backdrop 9' x 10' - Rich Black",
+                    "quality": "2",
+                    "price": "$10/Day"
+                },
+                {
+                    "name": "Green backdrop 3.2m x 6m",
+                    "quality": "1",
+                    "price": "$10/Day"
+                },
+                {
+                    "name": "Blue backdrop 3.2 x 6m ",
+                    "quality": "1",
+                    "price": "$10/Day"
+                },
+                {
+                    "name": "Backdrop Stand 3.3m x 3m",
+                    "quality": "1",
+                    "price": "$10/Day"
+                },
+                {
+                    "name": "Paper backdrops - various colours",
+                    "quality": "-",
+                    "price": "$10/Day"
+                }
+            ]
+        },
+        "miscellaneous": {
+            "title": "Miscellaneous",
+            "list": [
+                {
+                    "name": "Dana Dolly Portable Dolly System with Track Ends",
+                    "quality": "1",
+                    "price": "$50.00/Day"
+                },
+                {
+                    "name": "Dana Dolly Portable Aluminium Pipe Kit (6 X 39\")",
+                    "quality": "1",
+                    "price": "$50.00/Day"
+                },
+                {
+                    "name": "Seetec 28\" Monitor Screen",
+                    "quality": "1",
+                    "price": "$60.00/Day"
+                },
+                {
+                    "name": "Vaxis Atom 500ft SDI/HDMI Basic Rx/Tx",
+                    "quality": "1",
+                    "price": "$50.00/Day"
+                },
+                {
+                    "name": "Ghost-Eye 600MP HDMI/SDI",
+                    "quality": "1",
+                    "price": "$80.00/Day"
+                },
+                {
+                    "name": "Lightbox 80 x 80cm Cube",
+                    "quality": "1",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Lightbox 120 x 120cm Cube",
+                    "quality": "1",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Apple box",
+                    "quality": "2",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Manfrotto 244N variable friction magic arm",
+                    "quality": "2",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Super clamps",
+                    "quality": "4",
+                    "price": "$5.00/Day"
+                },
+                {
+                    "name": "Cassette Reels 4 sockes, 5M",
+                    "quality": "2",
+                    "price": "$5.00/Day"
+                },
+                {
+                    "name": "Cassette Reels 4 sockes, 10M",
+                    "quality": "5",
+                    "price": "$5.00/Day"
+                },
+                {
+                    "name": "Cassette Reels 4 sockes, 15M",
+                    "quality": "1",
+                    "price": "$5.00/Day"
+                }
+            ]
+        }
+    },
+    "EquipmentAddOns": {
+        "Lights": {
+            "title": "Lights",
+            "list": [
+                {
+                    "name": "Godox SL 100BI BI-Color Led Light",
+                    "quality": "2",
+                    "price": "$25.00/Day"
+                },
+                {
+                    "name": "Godox LEDP260C 30W 3300-5600K LED Video Light Panel",
+                    "quality": "2",
+                    "price": "$20.00/Day"
+                },
+                {
+                    "name": "Aputure Light Storm C300D II",
+                    "quality": "2",
+                    "price": "$70.00/Day"
+                },
+                {
+                    "name": "Aputure Light Storm 300X",
+                    "quality": "2",
+                    "price": "$70.00/Day"
+                },
+                {
+                    "name": "Aputure Nova P300C Kit",
+                    "quality": "2",
+                    "price": "$85.00/Day"
+                },
+                {
+                    "name": "Aputure Light Storm 600D Pro",
+                    "quality": "2",
+                    "price": "$85.00/Day"
+                }
+            ]
+        },
+        "Cutters_Flags": {
+            "title": "Cutters & Flags",
+            "list": [
+                {
+                    "name": "Westcott 307 30\" 5 in 1 Reflector",
+                    "quality": "1",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Westcott Fast Flag Kit 18\" x 24\"",
+                    "quality": "1",
+                    "price": "$20.00/Day"
+                },
+                {
+                    "name": "Westcott Fast Flags Kit 24\" x 36\"",
+                    "quality": "1",
+                    "price": "$30.00/Day"
+                },
+                {
+                    "name": "4' x 4' Black cutter flag",
+                    "quality": "2",
+                    "price": "$10.00/Day"
+                }
+            ]
+        },
+        "Softboxes": {
+            "title": "Softboxes",
+            "list": [
+                {
+                    "name": "Aputure Light Dome II",
+                    "quality": "4",
+                    "price": "$20.00/Day"
+                },
+                {
+                    "name": "Aputure Lantern",
+                    "quality": "1",
+                    "price": "$14.00/Day"
+                },
+                {
+                    "name": "Aputure Light Dome SE",
+                    "quality": "2",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Godox HoneyComb Light Diffuser Rectangle 35x160",
+                    "quality": "1",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Godox HoneyComb Light Diffuser Rectangle 50x130",
+                    "quality": "1",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Godox HoneyComb Light Diffuser Octagon 120",
+                    "quality": "2",
+                    "price": "$10.00/Day"
+                } 
+            ]
+        },
+        "Stands": {
+            "title": "Stands",
+            "list": [
+                {
+                    "name": "Manfrotto Avenger 083NW steel 2-Section Wind Up Stand",
+                    "quality": "2",
+                    "price": "$30.00/Day"
+                },
+                {
+                    "name": "Manfrotto A2033L/Kit C-Stand Kit 33 Sliding Leg",
+                    "quality": "6",
+                    "price": "$25.00/Day"
+                },
+                {
+                    "name": "Manfrotto Avenger A1010CS Combo Stand 10 Steel",
+                    "quality": "3",
+                    "price": "$20.00/Day"
+                },
+                {
+                    "name": "Manfrotto 1004BAC Master Lighting Stand",
+                    "quality": "9",
+                    "price": "$12.00/Day"
+                }
+            ]
+        },
+        "Sound": {
+            "title": "Sound",
+            "list": [
+                {
+                    "name": "Sennheiser EW122P G4-B-SET",
+                    "quality": "4",
+                    "price": "$25.00/Day"
+                },
+                {
+                    "name": "Sennheiser MKE 600 Shotgun Microphone",
+                    "quality": "1",
+                    "price": "$20.00/Day"
+                },
+                {
+                    "name": "Rycote INV-7 InVision Microphone Suspension for Stand and Boompole",
+                    "quality": "1",
+                    "price": "$20.00/Day"
+                },
+                {
+                    "name": "Rode boompole Pro",
+                    "quality": "1",
+                    "price": "$15.00/Day"
+                },
+                {
+                    "name": "Rode Blimp Wind Shield and Shock Mount System",
+                    "quality": "1",
+                    "price": "$20.00/Day"
+                },
+                {
+                    "name": "Zoom F6 6-Input / 14-Track Multitrack Field Recorder",
+                    "quality": "1",
+                    "price": "$30.00/Day"
+                }
+            ]
+        },
+        "Backdrops": {
+            "title": "Backdrops",
+            "list": [
+                {
+                    "name": "Wrinkle Resistant Backdrop 9' x 10' - Rich Black",
+                    "quality": "2",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Green backdrop 3.2m x 6m",
+                    "quality": "1",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Blue backdrop 3.2 x 6m",
+                    "quality": "1",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Backdrop Stand 3.3m x 3m",
+                    "quality": "1",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Paper backdrops - various colours",
+                    "quality": "-",
+                    "price": "$10.00/Day"
+                }
+            ]
+        },
+        "Miscellaneous": {
+            "title": "Miscellaneous",
+            "list": [
+                {
+                    "name": "Dana Dolly Portable Dolly System with Track Ends",
+                    "quality": "1",
+                    "price": "$50.00/Day"
+                },
+                {
+                    "name": "Dana Dolly Portable Aluminium Pipe Kit (6 X 39\")",
+                    "quality": "1",
+                    "price": "$50.00/Day"
+                },
+                {
+                    "name": "Seetec 28\" Monitor Screen ",
+                    "quality": "1",
+                    "price": "$60.00/Day"
+                },
+                {
+                    "name": "Vaxis Atom 500ft SDI/HDMI Basic Rx/Tx",
+                    "quality": "1",
+                    "price": "$50.00/Day"
+                },
+                {
+                    "name": "Ghost-Eye 600MP HDMI/SDI",
+                    "quality": "1",
+                    "price": "$80.00/Day"
+                },
+                {
+                    "name": "Lightbox 80 x 80cm Cube",
+                    "quality": "1",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Lightbox 120 x 120cm Cube",
+                    "quality": "1",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Apple box",
+                    "quality": "2",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Manfrotto 244N variable friction magic arm",
+                    "quality": "2",
+                    "price": "$10.00/Day"
+                },
+                {
+                    "name": "Super clamps",
+                    "quality": "4",
+                    "price": "$5.00/Day"
+                },
+                {
+                    "name": "Cassette Reels 4 sockes, 5M",
+                    "quality": "2",
+                    "price": "$5.00/Day"
+                },
+                {
+                    "name": "Cassette Reels 4 sockes, 10M",
+                    "quality": "5",
+                    "price": "$5.00/Day"
+                },
+                {
+                    "name": "Cassette Reels 4 sockes, 15M",
+                    "quality": "1",
+                    "price": "$5.00/Day"
+                }
+            ]
+        }
+    }
+}

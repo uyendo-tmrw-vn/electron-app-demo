@@ -2,6 +2,17 @@
 
 ## Usage
 
+
+```
+dist-electron : output electron when buildd
+app : dist for build appp from rendererr
+main : config for build
+"clean-dist": "rimraf dist",
+"clean-nm": "rimraf node_modules",
+"clean-output": "rimraf .output"
+```
+
+
 ### Create an App
 
 ```

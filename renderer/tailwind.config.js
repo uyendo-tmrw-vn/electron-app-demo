@@ -1,3 +1,5 @@
+const path = require('path');
+
 module.exports = {
   webpack: (config, { isServer }) => {
     if (!isServer) {
@@ -7,8 +9,8 @@ module.exports = {
     return config;
   },
   content: [
-    "./pages/**/*.{js,ts,jsx,tsx,scss}",
-    "./src/**/*.{js,ts,jsx,tsx,scss}",
+    path.join(__dirname, "./pages/**/*.{js,ts,jsx,tsx,scss}"),
+    path.join(__dirname, "./src/**/*.{js,ts,jsx,tsx,scss}"),
   ],
   theme: {
     extend: {

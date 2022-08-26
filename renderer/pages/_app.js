@@ -7,10 +7,9 @@ import TagManager from "react-gtm-module";
 import { useStore } from '../src/redux/store'
 import NavProvider from 'src/context/NavContext';
 import { FooterCpn, HeaderCpn, Loading, ScrollToTopCpn } from 'src/components/elements';
-// import '../src/styles/index.scss'
-
 import Script from 'next/script'
 
+import '../src/styles/index.scss'
 
 
 export default function App({ Component, pageProps }) {
